@@ -107,9 +107,7 @@ export default function Hero() {
             <h1 className="text-5xl md:text-7xl font-black leading-[1.05] mb-4">
               <span className="text-[#111]">Pizza Kaya,</span>
               <br />
-              <span className="text-[#fccf03]">Rasa Nggak</span>
-              <br />
-              <span className="text-[#111]">Bohong.</span>
+              <span className="text-[#fccf03]">Kaya Rasa</span>
             </h1>
             <div
               ref={subRef}
